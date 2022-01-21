@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaustubh484
-- 👀 I’m interested in...Android and Web dvelopment, Machine learning
-- 🌱 I’m currently learning... Android and Web development
-- 💞️ I’m looking to collaborate... on Android apps
+- 👀 I’m interested in...Web Development
+- 🌱 I’m currently learning... the MERN stack
+- 💞️ I’m looking to collaborate... on Hacksquad/Smart Restaurant Project
 - 📫 How to reach me...shahkaustubh6@gmail.com
 
 <!---
